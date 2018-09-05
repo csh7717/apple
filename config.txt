@@ -71,7 +71,4 @@ enable_uart=1
 dtoverlay=pi3-miniuart-bt
 kernel=u-boot.bin
 gpu_mem=256
-
-
-
-
+#kernel=kernel8.img
