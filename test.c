@@ -1,2 +1,8 @@
+#include<stdio.h>
 
-ifjweiopjfiowefjij
+int main(){
+  
+  printf("HELLO GENKINS!!!!!\n")
+    
+    return 0;
+}
