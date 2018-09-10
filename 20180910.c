@@ -1,3 +1,14 @@
-opfjwe;fklwejkfl;
-euiowfjweuiojf
-eiofjoweijfio
+
+
+
+#include<stdio.h>
+
+int main()
+{
+printf("test git\n");
+int a = 10;
+int b = 20;
+int c = a+b;
+return 0;
+}
+
